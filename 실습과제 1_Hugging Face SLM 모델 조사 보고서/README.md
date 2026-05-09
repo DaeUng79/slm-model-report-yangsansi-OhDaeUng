@@ -1,8 +1,6 @@
-# 양사시 오대웅 SLM 모델 조사 보고서 요약 
+#SLM 모델 조사 보고서 요약 
 
-이 문서는 `양사시_오대웅_slm_report.html`의 최신 입력 내용을 GitHub에서 빠르게 확인하기 위한 요약본입니다.
-
-- 원본 HTML: [양사시_오대웅_slm_report.html](./양사시_오대웅_slm_report.html)
+- 원본 HTML: [양산시_오대웅_slm_report.html](./양산시_오대웅_slm_report.html)
 - 선택 모델: `gemma-3-4b`
 - 모델 링크: https://huggingface.co/google/gemma-3-4b-it
 
