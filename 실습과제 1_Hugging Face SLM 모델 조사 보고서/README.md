@@ -1,6 +1,6 @@
 ## SLM 모델 조사 보고서 요약
 
-- 원본 HTML: [양산시_오대웅_slm_report.html](./양산시_오대웅_slm_report.html)
+- 원본 HTML: [양산시_오대웅_slm_report.html](./양산시_오대웅_slm_report.html)
 - 선택 모델: `gemma-3-4b`
 - 모델 링크: https://huggingface.co/google/gemma-3-4b-it
 
